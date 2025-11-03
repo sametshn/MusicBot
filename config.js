@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
-  language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  TOKEN: "MTQyMTg4MzA5NDc4ODYwODAwMQ.Gy7sSR.sWBhEqnDcv8PxM2D-f6oVvCkRtxZ-w1XGazkPk",
+  language: "tr",
+  ownerID: ["350036634651197443", ""], 
   mongodbUri : "mongodb+srv://sametsahin:sametsahin@discordbot.fk1la8d.mongodb.net/?appName=DiscordBot",
   spotifyClientId : "",
   spotifyClientSecret : "",
@@ -12,7 +12,6 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
