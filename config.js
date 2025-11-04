@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Yarrağıyla", 
+  activityName: "", 
   activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
   embedTimeout: 500, 
   errorLog: "", 
